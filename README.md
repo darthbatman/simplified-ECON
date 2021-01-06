@@ -10,11 +10,13 @@ Output: Scored Concepts
 
 1. Candidate Generation
 
-2. Embedding Construction
+2. Superspan Sequence Generation
 
-3. Classifier Training
+3. Embedding Construction
 
-4. Candidate Classification
+4. Classifier Training
+
+5. Candidate Classification
 
 ## Authors
 
