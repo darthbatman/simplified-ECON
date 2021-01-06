@@ -1,0 +1,2 @@
+jupyterlab==3.0.1
+tqdm==4.55.1
