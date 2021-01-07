@@ -14,9 +14,11 @@ Output: Scored Concepts
 
 3. Embedding Construction
 
-4. Classifier Training
+4. Feature Generation
 
-5. Candidate Classification
+5. Classifier Training
+
+6. Candidate Classification and Scoring
 
 ## Authors
 
