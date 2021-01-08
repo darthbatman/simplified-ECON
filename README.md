@@ -1,12 +1,8 @@
 # simplified-ECON
 
-`simplified-ECON` is a simplified version of the ECON pipeline introduced in the following paper: [Concept Mining via Embedding](https://ysu1989.github.io/papers/icdm18_concept.pdf).
+`simplified-ECON` is a simplified version of the ECON pipeline introduced in the following paper: [Concept Mining via Embedding](https://ysu1989.github.io/papers/icdm18_concept.pdf). This repository also includes a comparison between AutoPhrase and ECON results on the same input corpus (10000 arXiv computer science paper abstracts).
 
 ## Pipeline
-
-Input: Text Corpus
-
-Output: Scored Concepts
 
 1. Candidate Generation
 
