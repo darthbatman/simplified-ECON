@@ -47,7 +47,7 @@ To compare the results of the AutoPhrase and ECON pipelines, run the cells of th
 
 * Rishi Masand
 
-## Resources
+## References
 
 Keqian Li, Hanwen Zha, Yu Su, and Xifeng Yan, ["Concept Mining via Embedding"](https://ysu1989.github.io/papers/icdm18_concept.pdf), 2018.
 
