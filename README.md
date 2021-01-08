@@ -41,6 +41,8 @@ Install the dependencies using the following command.
 
 To run the pipeline, run the cells of the Jupyter notebooks in the order of the pipeline steps listed above, using `jupyter lab`, ensuring the `se` kernel is selected.
 
+To compare the results of the AutoPhrase and ECON pipelines, run the cells of the `autophrase_comparison.ipynb` notebook.
+
 ## Authors
 
 * Rishi Masand
@@ -48,3 +50,5 @@ To run the pipeline, run the cells of the Jupyter notebooks in the order of the 
 ## Resources
 
 Keqian Li, Hanwen Zha, Yu Su, and Xifeng Yan, ["Concept Mining via Embedding"](https://ysu1989.github.io/papers/icdm18_concept.pdf), 2018.
+
+Jingbo Shang, Jialu Liu, Meng Jiang, Xiang Ren, Clare R Voss, and Jiawei Han, ["Automated Phrase Mining from Massive Text Corpora"](https://arxiv.org/abs/1702.04457), 2017.
