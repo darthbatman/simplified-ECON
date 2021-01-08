@@ -18,7 +18,7 @@ Output: Scored Concepts
 
 5. Classifier Training
 
-6. Candidate Classification and Scoring
+6. Concept Recognition
 
 ## Authors
 
