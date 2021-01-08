@@ -16,6 +16,31 @@
 
 6. Concept Recognition
 
+## Usage
+
+### Environment
+
+Navigate to the `simplified-ECON` directory and setup a new `conda` environment using the following commands.
+
+```
+conda create -n se python=3.8.5 -y
+conda activate se
+conda install ipykernel -y
+ipython kernel install --user --name=se
+```
+
+Clone the [AutoPhrase](https://github.com/shangjingbo1226/AutoPhrase) repository. In the `candidate_generation.ipynb` and `feature_generation.ipynb` notebooks, set `AUTOPHRASE_PATH` to the path of the cloned AutoPhrase repository.
+
+### Dependencies
+
+Install the dependencies using the following command.
+
+`pip install -r requirements.txt`
+
+### Execution
+
+To run the pipeline, run the cells of the Jupyter notebooks in the order of the pipeline steps listed above, using `jupyter lab`, ensuring the `se` kernel is selected.
+
 ## Authors
 
 * Rishi Masand
