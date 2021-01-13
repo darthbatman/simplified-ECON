@@ -16,6 +16,10 @@
 
 6. Concept Recognition
 
+The code for each stage in the pipeline builds off of or is copied from the [original ECON pipeline implementation](https://github.com/kleeeeea/ECON).
+
+The `autophrase_comparison.ipynb` notebook is a novel contribution, and can be used to compare the extracted concept results of the AutoPhrase and ECON pipelines.
+
 ## Usage
 
 ### Environment
