@@ -20,6 +20,8 @@ The code for each stage in the pipeline builds off of or is copied from the [ori
 
 The `autophrase_comparison.ipynb` notebook is a novel contribution, and can be used to compare the extracted concept results of the AutoPhrase and ECON pipelines.
 
+Additionally, the `method_evaluation.ipynb` notebook is a novel contribution, and can be used to evaluate the performance of the AutoPhrase, [PRDR Phrase Detection](https://github.com/harrywsh/phrase-detection), and ECON pipelines.
+
 ## Usage
 
 ### Environment
@@ -46,6 +48,8 @@ Install the dependencies using the following command.
 To run the pipeline, run the cells of the Jupyter notebooks in the order of the pipeline steps listed above, using `jupyter lab`, ensuring the `se` kernel is selected.
 
 To compare the results of the AutoPhrase and ECON pipelines, run the cells of the `autophrase_comparison.ipynb` notebook.
+
+To evaluate the performance of the AutoPhrase, PRDR Phrase Detection, and ECON pipelines, run the cells of the `method_evaluation.ipynb` notebook.
 
 ## Authors
 
