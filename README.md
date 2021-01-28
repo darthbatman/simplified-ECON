@@ -1,6 +1,6 @@
 # simplified-ECON
 
-`simplified-ECON` is a simplified version of the ECON pipeline introduced in the following paper: [Concept Mining via Embedding](https://ysu1989.github.io/papers/icdm18_concept.pdf). The main simplification lies in the candidate generation stage of the pipeline, for which `simplified-ECON` only uses AutoPhrase, while ECON uses multiple candidate generation techniques. This repository also includes a comparison between AutoPhrase and ECON results on the same input corpus (10000 arXiv computer science paper abstracts).
+`simplified-ECON` is a simplified version of the ECON pipeline introduced in the following paper: [Concept Mining via Embedding](https://ysu1989.github.io/papers/icdm18_concept.pdf). The main simplification lies in the candidate generation stage of the pipeline, for which `simplified-ECON` only uses AutoPhrase, while ECON uses multiple candidate generation techniques. This repository also includes a comparison between AutoPhrase, ECON, and [PRDR Phrase Detection](https://github.com/harrywsh/phrase-detection) results on the same input corpus (10000 arXiv computer science paper abstracts).
 
 ## Pipeline
 
@@ -53,7 +53,7 @@ To evaluate the performance of the AutoPhrase, PRDR Phrase Detection, and ECON p
 
 ## Authors
 
-* Rishi Masand
+- Rishi Masand
 
 ## References
 
